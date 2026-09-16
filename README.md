@@ -3,7 +3,10 @@
 A simple **Bash Shell Script** that automates basic AWS resource checks and generates a useful report.
 
 The script uses the **AWS CLI** to collect information about your AWS account and resources such as EC2, S3, Lambda, and IAM.
-![Uploading ChatGPT Image Sep 16, 2026, 03_29_07 PM.png…]()
+<br>
+
+<img width="1536" height="1024" alt="ChatGPT Image Sep 16, 2026, 03_29_07 PM" src="https://github.com/user-attachments/assets/f4c57fb1-44fa-4a94-9a4e-be9fcdbd2c2b" />
+
 
 ## ✨ Features
 
